@@ -18,7 +18,7 @@ require("lazy").setup({
 			"sphamba/smear-cursor.nvim",
 			opts = {
 				enabled = true,
-				trailing_exponent = 12,
+				trailing_exponent = 3,
 				stiffness = 0.8,
 				trailing_stiffness = 0.5,
 				max_length = 12,
